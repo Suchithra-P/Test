@@ -17,4 +17,7 @@ editing in progress
 some more to add
 
 Branch 1 edited after Branch 2 merge
+
+new line to branch2
+one more line
 master edited
